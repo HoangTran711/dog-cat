@@ -11,12 +11,8 @@ x
 
 xx
 xxxx
-
+xxxx
+xxxxxx
+x
 
 xxxx
-
-
-s
-ss
-ss
-
